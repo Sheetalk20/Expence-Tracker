@@ -1,5 +1,12 @@
 <img width="1877" height="974" alt="Screenshot 2025-08-17 152400" src="https://github.com/user-attachments/assets/00079db1-5f7e-471d-b2c3-084cfa642d11" />
+
+
 # 💰 Expense Tracker
+
+##  Live Project
+
+Check it out here: [Expense Tracker (Live)](https://expence-tracker-tawny.vercel.app/)
+
 
 An **interactive Expense Tracker Web App** built using **HTML, CSS, and JavaScript**.
 This project demonstrates my **frontend development skills** such as responsive UI design, DOM manipulation, event handling, local storage usage, and data visualization using **Chart.js**.
